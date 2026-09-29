@@ -1,0 +1,5 @@
+streamlit
+rembg[cpu]
+pillow
+onnxruntime==1.19.0
+numpy<2
